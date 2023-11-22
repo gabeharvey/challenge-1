@@ -20,6 +20,8 @@ https://github.com/coding-boot-camp/urban-octo-telegram.git
 ## Screenshot
 
 ![Alt text](<Screenshot 2023-11-21 201918.png>)
+![Alt text](<Screenshot 2023-11-21 204327.png>)
+![Alt text](<Screenshot 2023-11-21 204415.png>)
 
 ## Link to Website
 
