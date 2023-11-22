@@ -17,6 +17,10 @@ To fully understand this updated code, please refer to Notes left throughout ind
 Source of Starter Code
 https://github.com/coding-boot-camp/urban-octo-telegram.git
 
+## Screenshot
+
+![Alt text](<Screenshot 2023-11-21 201918.png>)
+
 ## License
 
 N/A
